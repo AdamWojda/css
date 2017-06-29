@@ -2,7 +2,7 @@
 
 *Najrozsądniejsze podjeście do SASS i CSS*
 
-## Table of Contents
+## Zawartość
 
 1. [Terminologia](#terminologia)
     - [Deklaracje](#deklaracje)
@@ -20,8 +20,8 @@
     - [Kolejność Deklaracji](#kolejność-deklaracji)
     - [Zmienne](#zmienne)
     - [Mixiny](#mixiny)
-    - [Dyrektywa Extend](#Dyrektywa Extend)
-    - [Zagnieżdżanie Selektorów](#Zagnieżdzanie selektorów)
+    - [Dyrektywa Extend](#dyrektywa-extend)
+    - [Zagnieżdżanie Selektorów](#zagnieżdzanie-selektorów)
 1. [Tłumaczenie](#tłumaczenie)
 
 ## Terminologia
